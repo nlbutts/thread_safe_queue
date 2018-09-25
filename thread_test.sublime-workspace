@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"MAx",
+				"MaxBufferSize"
+			],
+			[
+				"PROTOCOL_",
+				"PROTOCOL_LEN"
+			],
+			[
+				"PROT",
+				"PROTOCOL_VERID"
+			],
+			[
+				"Max",
+				"MaxBufferSize"
+			],
+			[
+				"EXP",
+				"EXPECT_TRUE"
+			],
+			[
+				"IMemo",
+				"IMemory_FS"
+			],
+			[
+				"NVSection",
+				"NVSectionStatus\t(NVSection.cpp)"
+			],
+			[
+				"IMe",
+				"IMemory_mock\t(IMemory_mock.h)"
+			],
+			[
+				"Digital",
+				"DigitalToAnalog"
+			],
+			[
+				"VL53",
+				"VL53L0X"
+			],
+			[
+				"desi",
+				"desiredSpeed"
+			],
+			[
+				"Res",
+				"ReusableForm"
+			],
+			[
+				"tra",
+				"training_op"
+			],
+			[
+				"n_hidd",
+				"n_hidden1"
+			],
+			[
+				"reset",
+				"reset_graph"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "CMakeLists.txt",
+			"settings":
+			{
+				"buffer_size": 115,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "cmake_minimum_required (VERSION 2.6)"
+			}
+		},
+		{
+			"contents": "// A simple program that computes the square root of a number\n#include <stdio.h>\n#include <stdlib.h>\n#include <math.h>\n#include <thread>\n#include <iostream>\n#include \"thread_queue.h\"\n\nusing namespace std;\n\nint main (int argc, char *argv[])\n{\n  cout << \"Hello threads\" << endl;\n\n  Queue<float> q1;\n  Queue<float> q2;\n\n  q1.\n\n  return 0;\n}",
+			"file": "main.cpp",
+			"file_size": 291,
+			"file_write_time": 131823148689931716,
+			"settings":
+			{
+				"buffer_size": 337,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "// A simple program that computes the square root"
+			}
+		},
+		{
+			"file": "thread_queue.h",
+			"settings":
+			{
+				"buffer_size": 911,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "#include <queue>"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 461.0
+	},
+	"console":
+	{
+		"height": 124.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/nlbutts/projects/thread_test"
+	],
+	"file_history":
+	[
+		"/home/nlbutts/projects/pitemplogger/mcp9808/Adafruit_Python_MCP9808/examples/simpletest.py",
+		"/home/nlbutts/projects/pitemplogger/templogger/READ.md",
+		"/home/nlbutts/projects/pitemplogger/templogger/templogger/settings.py",
+		"/home/nlbutts/projects/pitemplogger/templogger/tempgetter/models.py",
+		"/home/nlbutts/projects/pitemplogger/templogger/templogger/urls.py",
+		"/home/nlbutts/projects/pitemplogger/templogger/tempgetter/views.py",
+		"/home/nlbutts/projects/pitemplogger/templogger/tempgetter/admin.py",
+		"/home/nlbutts/projects/pitemplogger/templogger/tempgetter/urls.py",
+		"/home/nlbutts/projects/pitemplogger/templogger/urls.py",
+		"/home/nlbutts/projects/sjpeg/CMakeLists.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libBLE/src/ble_protocol.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libcrc/include/checksum.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/application/CMakeLists.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/utility/CircularBufferManager.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/CMakeLists.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libBLE/CMakeLists.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libcrc/CMakeLists.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/CMakeLists.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libcrc/src/crc32.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libcrc/tab/README",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/utility/checksum/crc/Crc32.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/ut/src/Crc32_ut.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/utility/checksum/crc/Crc32.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/memory/NVSection.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/ut/include/embedded/memory/Memory_fs.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/memory/winbond/NORFlash.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/memory/winbond/NORFlash.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/memory/NVSection.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/ut/src/NVSection_ut.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/ut/include/embedded/memory/Memory_mock.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/ut/src/mock/IMemory_mock.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/memory/winbond/defines.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/SPIInterface.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/utility/checksum/fletcher/Fletcher.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/ISPI.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/utility/checksum/fletcher/Fletcher.hpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/device/ChipSelect.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/device/ChipSelect.hpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/micro/stm32/SPIInterface.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/micro/stm32/Timer.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_def.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dac.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/laser_board/motion_driver_6.12/arm/STM32F4_MD6/Projects/eMD6/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/src/vl53l0x.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/micro/stm32/DigitalToAnalog.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/DigitalToAnalog.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/IDAC.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/generate_build.sh",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/include/vl53l0x.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/memory/winbond/FLASHIO.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/memory/SPIFlash.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dac.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/application/src/stm32f3xx_hal_msp.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c.h",
+		"/home/nlbutts/projects/PiFinder/SW/src/main.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_dac_ex.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/platform/src/vl53l0x_i2c_stm_comms.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/ApiExample/examples/src/vl53l0x_SingleRanging_Long_Range_Example.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/ApiExample/examples/src/vl53l0x_ContinuousRanging_Example.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/CMakeLists.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/laser_board/motion_driver_6.12/arm/STM32F4_MD6/Projects/eMD6/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dac.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/laser_board/motion_driver_6.12/arm/STM32F4_MD6/Projects/eMD6/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_dac.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/core/inc/vl53l0x_api.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/system/src/newlibstub.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/platform/src/vl53l0x_platform.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/core/src/vl53l0x_api.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_i2c.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/core/inc/vl53l0x_def.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/core/inc/vl53l0x_api_strings.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/ut/googletest-release-1.8.0/googletest/src/gtest-death-test.cc",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/platform/inc/vl53l0x_i2c_platform.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_gpio.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_spi.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/CMakeLists.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/sensors/IRangeFinder.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/toolchain/arm_embedded_toolchain.txt",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q15.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/GPIO.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal.c",
+		"/home/nlbutts/projects/LaserBodyRoll/LAVA.sublime-project",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/include/IRangeFinder.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Inc/main.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/platform/src/vl53l0x_platform_log.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/I2C.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/micro/stm32/I2C.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/II2C.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/micro/stm32/SPI.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/micro/stm32/DMA.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/SPI.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/DMA.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libvl53l0x/Api/platform/src/vl53l0x_i2c_win_serial_comms.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/Timer.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xe.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/application/src/stm32f3xx_it.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/micro/stm32/Analogs.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/Analogs.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/Interrupt.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/stm32/CriticalSection.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/IAnalogs.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/IFlash.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/IGPIO.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/ITickTimer.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/ITimer.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/interface/IGPIOMuxPin.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_tim.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc_ex.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Inc/stm32f3xx_hal_conf.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Src/stm32f3xx_hal_cortex.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_cortex.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim_ex.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_tim.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Src/main.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Inc/libst_config.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/laser_board/motion_driver_6.12/arm/STM32F4_MD6/Projects/eMD6/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_rcc.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Src/stm32f3xx_it.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/ut/include/embedded/micro/interface/fake/FakeGPIO.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/include/embedded/micro/adapter/DSP.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/ut/include/appareo/micro/interface/fake/FakeGPIO.h",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/system/src/ramFunctionInit.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libembedded/src/embedded/micro/stm32/CriticalSection.cpp",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/libst/Makefile",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/system/src/system_stm32f3xx.c",
+		"/home/nlbutts/projects/LaserBodyRoll/software/lava/build/arm/application/application_debug.elf.map"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 98.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "CMakeLists.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 115,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								46,
+								46
+							]
+						],
+						"settings":
+						{
+							"auto_name": "cmake_minimum_required (VERSION 2.6)",
+							"syntax": "Packages/CMakeEditor/CMakeEditor.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 337,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"auto_name": "// A simple program that computes the square root",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "thread_queue.h",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								116,
+								116
+							]
+						],
+						"settings":
+						{
+							"auto_name": "#include <queue>",
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "thread_test.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"cmakelists",
+				"software/lava/application/CMakeLists.txt"
+			],
+			[
+				"cmakelist",
+				"software/lava/libBLE/CMakeLists.txt"
+			],
+			[
+				"circular",
+				"software/lava/libembedded/include/embedded/utility/CircularBufferManager.h"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"cmake",
+				"software/lava/libembedded/CMakeLists.txt"
+			],
+			[
+				"crc32",
+				"software/lava/ut/src/Crc32_ut.cpp"
+			],
+			[
+				"crc",
+				"software/lava/libembedded/src/embedded/utility/checksum/crc/Crc32.cpp"
+			],
+			[
+				"ble_proto",
+				"software/lava/libBLE/src/ble_protocol.c"
+			],
+			[
+				"norlfash.h",
+				"software/lava/libembedded/include/embedded/memory/winbond/NORFlash.h"
+			],
+			[
+				"norflash.cpp",
+				"software/lava/libembedded/src/embedded/memory/winbond/NORFlash.cpp"
+			],
+			[
+				"gen",
+				"software/lava/generate_build.sh"
+			],
+			[
+				"imemory",
+				"software/lava/ut/include/embedded/memory/IMemory_mock.h"
+			],
+			[
+				"cmakelists.txt",
+				"software/lava/ut/CMakeLists.txt"
+			],
+			[
+				"norflash.h",
+				"software/lava/libembedded/include/embedded/memory/winbond/NORFlash.h"
+			],
+			[
+				"flet",
+				"software/lava/libembedded/include/embedded/utility/checksum/fletcher/Fletcher.h"
+			],
+			[
+				"nvsec",
+				"software/lava/libembedded/src/embedded/memory/NVSection.cpp"
+			],
+			[
+				"timer.cpp",
+				"software/lava/libembedded/src/embedded/micro/stm32/Timer.cpp"
+			],
+			[
+				"spi.h",
+				"software/lava/libembedded/include/embedded/micro/stm32/SPI.h"
+			],
+			[
+				"stm32fxx_hal_spi.h",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi.h"
+			],
+			[
+				"stm32xx_hal_dma",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_dma.h"
+			],
+			[
+				"dma",
+				"software/laser_board/motion_driver_6.12/arm/STM32F4_MD6/Projects/eMD6/STM32F4xx_StdPeriph_Driver/src/stm32f4xx_dma.c"
+			],
+			[
+				"norflash",
+				"software/lava/libembedded/src/embedded/memory/winbond/NORFlash.cpp"
+			],
+			[
+				"spi.c",
+				"software/lava/libembedded/src/embedded/micro/stm32/SPI.cpp"
+			],
+			[
+				"chipsele",
+				"software/lava/libembedded/include/embedded/device/ChipSelect.hpp"
+			],
+			[
+				"digit",
+				"software/lava/libembedded/include/embedded/micro/stm32/DigitalToAnalog.h"
+			],
+			[
+				"ispi.h",
+				"software/lava/libembedded/include/embedded/micro/interface/ISPI.h"
+			],
+			[
+				"genera",
+				"software/lava/generate_build.sh"
+			],
+			[
+				"iana",
+				"software/lava/libembedded/include/embedded/micro/interface/IAnalogs.h"
+			],
+			[
+				"digi",
+				"software/lava/libembedded/src/embedded/micro/stm32/DigitalToAnalog.cpp"
+			],
+			[
+				"vl53",
+				"software/lava/libvl53l0x/include/vl53l0x.h"
+			],
+			[
+				"vl53stm",
+				"software/lava/libvl53l0x/Api/platform/src/vl53l0x_i2c_stm_comms.c"
+			],
+			[
+				"cmakeli",
+				"software/lava/libst/CMakeLists.txt"
+			],
+			[
+				"gener",
+				"software/lava/generate_build.sh"
+			],
+			[
+				"stm32fxx_dac",
+				"software/laser_board/motion_driver_6.12/arm/STM32F4_MD6/Projects/eMD6/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_dac.h"
+			],
+			[
+				"timer.h",
+				"software/lava/libembedded/include/embedded/micro/stm32/Timer.h"
+			],
+			[
+				"stm32f3xx_hal_rcc.h",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc.h"
+			],
+			[
+				"stm32f3xx_hal_def.h",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_def.h"
+			],
+			[
+				"arm_iir_lattice_q15",
+				"software/lava/libst/Drivers/CMSIS/DSP_Lib/Source/FilteringFunctions/arm_iir_lattice_q15.c"
+			],
+			[
+				"arm",
+				"software/lava/toolchain/arm_embedded_toolchain.txt"
+			],
+			[
+				"hal_spi.h",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_spi.h"
+			],
+			[
+				"newlib",
+				"software/lava/system/src/newlibstub.c"
+			],
+			[
+				"cmakelist.txt",
+				"software/lava/libvl53l0x/CMakeLists.txt"
+			],
+			[
+				"irangefind",
+				"software/lava/libembedded/include/embedded/sensors/IRangeFinder.h"
+			],
+			[
+				"dma.cpp",
+				"software/lava/libembedded/src/embedded/micro/stm32/DMA.cpp"
+			],
+			[
+				"dma.h",
+				"software/lava/libembedded/include/embedded/micro/stm32/DMA.h"
+			],
+			[
+				"spi.cpp",
+				"software/lava/libembedded/src/embedded/micro/stm32/SPI.cpp"
+			],
+			[
+				"stm32fxx_hal_i2c.h",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_i2c.h"
+			],
+			[
+				"libvl/cmake",
+				"software/lava/libvl53l0x/CMakeLists.txt"
+			],
+			[
+				"ii2c",
+				"software/lava/libembedded/include/embedded/micro/interface/II2C.h"
+			],
+			[
+				"main.h",
+				"software/lava/libst/Inc/main.h"
+			],
+			[
+				"main.c",
+				"software/lava/libst/Src/main.c"
+			],
+			[
+				"stm32f3xx_hal_conf.h",
+				"software/lava/libst/Inc/stm32f3xx_hal_conf.h"
+			],
+			[
+				"stm32f3xx_hal.h",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal.h"
+			],
+			[
+				"libst",
+				"software/lava/libst/Inc/libst_config.h"
+			],
+			[
+				"hal_rcc.h",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_hal_rcc.h"
+			],
+			[
+				"libst_co",
+				"software/lava/libst/Inc/libst_config.h"
+			],
+			[
+				"_it.c",
+				"software/lava/libst/Src/stm32f3xx_it.c"
+			],
+			[
+				"rcc",
+				"software/laser_board/motion_driver_6.12/arm/STM32F4_MD6/Projects/eMD6/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_rcc.h"
+			],
+			[
+				"core_cm4.h",
+				"software/lava/libst/Drivers/CMSIS/Include/core_cm4.h"
+			],
+			[
+				"arm_math.h",
+				"software/lava/libst/Drivers/CMSIS/Include/arm_math.h"
+			],
+			[
+				"arm_abs",
+				"software/lava/libst/Drivers/CMSIS/DSP_Lib/Source/BasicMathFunctions/arm_abs_f32.c"
+			],
+			[
+				"system",
+				"software/lava/system/src/system_stm32f3xx.c"
+			],
+			[
+				"sections.ld",
+				"software/lava/ldscripts/Sections.ld"
+			],
+			[
+				"sections",
+				"software/lava/ldscripts/Sections.ld"
+			],
+			[
+				"systick",
+				"software/lava/libembedded/src/embedded/micro/stm32/SysTickTimer.cpp"
+			],
+			[
+				"iticktim",
+				"software/lava/libembedded/include/embedded/micro/interface/ITickTimer.h"
+			],
+			[
+				"stm32f3xx_ext",
+				"software/lava/libst/Drivers/STM32F3xx_HAL_Driver/Inc/stm32f3xx_ll_exti.h"
+			],
+			[
+				"stm32fxx_ex",
+				"software/laser_board/motion_driver_6.12/arm/STM32F4_MD6/Projects/eMD6/STM32F4xx_StdPeriph_Driver/inc/stm32f4xx_exti.h"
+			],
+			[
+				"inte",
+				"software/lava/libembedded/src/embedded/micro/stm32/Interrupt.cpp"
+			],
+			[
+				"interr",
+				"software/lava/libembedded/include/embedded/micro/stm32/Interrupt.h"
+			],
+			[
+				"interrupt.h",
+				"software/lava/libembedded/include/embedded/micro/stm32/Interrupt.h"
+			],
+			[
+				"interrupt.cpp",
+				"software/lava/libembedded/src/embedded/micro/stm32/Interrupt.cpp"
+			],
+			[
+				"app",
+				"software/lava/ldscripts/Application_debug.ld"
+			],
+			[
+				"_it.h",
+				"software/lava/libst/Inc/stm32f3xx_it.h"
+			],
+			[
+				"st.ld",
+				"software/lava/ldscripts/st.ld"
+			],
+			[
+				"itimer.h",
+				"software/lava/libembedded/include/embedded/micro/interface/ITimer.h"
+			],
+			[
+				"gpio.c",
+				"software/lava/libembedded/src/embedded/micro/stm32/GPIO.cpp"
+			],
+			[
+				"clockcon",
+				"software/lava/libembedded/include/embedded/micro/stm32/ClockControl.h"
+			],
+			[
+				"appl",
+				"software/lava/ldscripts/Application_debug.ld"
+			],
+			[
+				"newl",
+				"software/lava/system/src/newlibstub.c"
+			],
+			[
+				"clockcontr",
+				"software/lava/libembedded/include/embedded/micro/stm32/ClockControl.h"
+			],
+			[
+				"clock",
+				"software/lava/libembedded/src/embedded/micro/stm32/ClockControl.cpp"
+			],
+			[
+				"gpio.cpp",
+				"software/lava/libembedded/src/embedded/micro/stm32/GPIO.cpp"
+			],
+			[
+				"gpio.h",
+				"software/lava/libembedded/include/embedded/micro/stm32/GPIO.h"
+			],
+			[
+				"ipgio.h",
+				"software/lava/libembedded/include/micro/interface/IGPIO.h"
+			],
+			[
+				"gpio",
+				"software/lava/libembedded/include/micro/stm32f4/GPIO.h"
+			],
+			[
+				"main.cpp",
+				"software/lava/application/src/main.cpp"
+			],
+			[
+				"stm32f303xe.h",
+				"software/lava/libst/Drivers/CMSIS/Device/ST/STM32F3xx/Include/stm32f303xe.h"
+			],
+			[
+				"builtin_op_data.h",
+				"tensorflow/contrib/lite/builtin_op_data.h"
+			],
+			[
+				"tensor_utils.cc",
+				"tensorflow/contrib/lite/kernels/internal/tensor_utils.cc"
+			],
+			[
+				"sensortile_audio_out",
+				"STSW-STLKT01_V1.3.1/Drivers/BSP/SensorTile/SensorTile_audio_out.h"
+			],
+			[
+				"sensortile_au",
+				"STSW-STLKT01_V1.3.1/Drivers/BSP/SensorTile/SensorTile_audio_out.c"
+			],
+			[
+				"sensortile_audio",
+				"STSW-STLKT01_V1.3.1/Drivers/BSP/SensorTile/SensorTile_audio_in.h"
+			],
+			[
+				"pcm",
+				"STSW-STLKT01_V1.3.1/Drivers/BSP/Components/pcm1774/PCM1774_CODEC_Driver.h"
+			],
+			[
+				"stm32l4xx_hal_conf",
+				"STSW-STLKT01_V1.3.1/Projects/SensorTile/Applications/BLE_SampleApp/Inc/stm32l4xx_hal_conf.h"
+			],
+			[
+				"stm32l4xx_hal",
+				"STSW-STLKT01_V1.3.1/Drivers/STM32L4xx_HAL_Driver/Inc/stm32l4xx_hal.h"
+			],
+			[
+				"sensottileau",
+				"STSW-STLKT01_V1.3.1/Drivers/BSP/SensorTile/SensorTile_audio_in.h"
+			],
+			[
+				"pcm1",
+				"STSW-STLKT01_V1.3.1/Drivers/BSP/Components/pcm1774/PCM1774_CODEC_Driver.c"
+			],
+			[
+				"vl53l0x_platform",
+				"SW/libVL53L0X/platform/inc/vl53l0x_platform.h"
+			],
+			[
+				"i2c_plat",
+				"libVL53L0X/platform/inc/vl53l0x_i2c_platform.h"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 655.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
